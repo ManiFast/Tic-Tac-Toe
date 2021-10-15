@@ -1,0 +1,3 @@
+H:\Disk\qwerty\C++\My projects\Tic-Tac-Toe\Tic_tac_Toe_game\Tic_tac_Toe_game\x64\Debug\Tic_tac_Toe_game.vcxproj.AssemblyReference.cache
+H:\Disk\qwerty\C++\My projects\Tic-Tac-Toe\Tic_tac_Toe_game\Tic_tac_Toe_game\x64\Debug\TictacToegame.MyForm.resources
+H:\Disk\qwerty\C++\My projects\Tic-Tac-Toe\Tic_tac_Toe_game\Tic_tac_Toe_game\x64\Debug\Tic_tac_Toe_game.vcxproj.GenerateResource.cache
