@@ -1,3 +1,4 @@
 ﻿  MyForm.cpp
+H:\Disk\qwerty\C++\My projects\Tic-Tac-Toe\Tic_tac_Toe_game\Tic_tac_Toe_game\MyForm.h(1320,1): warning C4809: в операторе switch имеется ненужная метка "default"; все возможные метки "case" уже заданы
   MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   Tic_tac_Toe_game.vcxproj -> H:\Disk\qwerty\C++\My projects\Tic-Tac-Toe\Tic_tac_Toe_game\x64\Debug\Tic_tac_Toe_game.exe
