@@ -11,4 +11,6 @@ void todo();
 
 int randNum();
 
+int randNumFrom1To4();
+
 #endif // SOUNDS_H

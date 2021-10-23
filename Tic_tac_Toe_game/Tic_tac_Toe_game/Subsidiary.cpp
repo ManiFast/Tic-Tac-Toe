@@ -8,6 +8,11 @@ void todo()
 int randNum()
 {
   srand(time(NULL));
-
   return rand() % 2 + 1;
+}
+
+int randNumFrom1To4()
+{
+  //srand(time(NULL));
+  return rand() % 4 + 1;
 }
